@@ -1,6 +1,7 @@
 public void Start()
 {
     print:"hola";
+    print:"recepido";
 }
 
 public void Update()
